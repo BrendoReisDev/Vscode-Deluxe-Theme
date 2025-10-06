@@ -1,0 +1,24 @@
+{
+  "name": "deluxe-theme",
+  "displayName": "Deluxe Theme",
+  "publisher": "brendo",
+  "description": "Tema escuro minimalista e elegante",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": ["Themes"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrendoReisDev/deluxe-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deluxe Theme",
+        "uiTheme": "vs-dark",
+        "path": "themes/deluxe-theme-color-theme (1).json"
+      }
+    ]
+  }
+}
